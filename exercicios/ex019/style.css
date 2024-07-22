@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    background-color: #8FC1B5;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+color: #146551;
+font-family: 'Times New Roman', Times, serif;
+}
+
+#principal {
+    text-align: center;
+    color: #265C4B;
+    font-size: 4em;
+}
+
+h2 {
+    color: #007566;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jersey-25-charted-regular {
+    font-family: "Jersey 25 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+  .basico {
+    color: #589A8D;
+  }
+
+  .intermediario {
+    color: green;
+  }
+
+  .avancado {
+    color: darkgreen;
+  }
+
+  .destaque {
+    color: greenyellow;
+  }
